@@ -6,7 +6,7 @@ draft = false
 My name is Marc and I recently finished my terminal year as a **CS** student at
 [**U.B.B.**](https://www.cs.ubbcluj.ro/en/).
 
-I'm interested in many areas of computer science:
+I'm interested in various areas of computer science:
 
 * **Unix**-like operating systems (hackin' on the terminal,
 properly maintaining a system, etc.)
