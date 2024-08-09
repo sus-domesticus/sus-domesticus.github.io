@@ -19,9 +19,9 @@
 {{- end }}
 
 {{- if .Params.Categories }}
-  {{- $categories := "Categories" -}}
+  {{- $categories := "Categories:" -}}
   {{- range $index, $element := .Params.Categories -}}
-    {{- $categories = printf "%s%s<span style='color: var(--primary)'>%s</span>" $categories " " $element -}}
+    {{- $categories = printf "%s<span style='color: var(--primary)'>%s</span>" $categories $element -}}
   {{- end -}}
   {{- $scratch.Add "meta" (slice $categories) -}}
 {{- end }}

@@ -11,7 +11,7 @@ I'm interested in many areas of computer science:
 * **Unix**-like operating systems (hackin' on the terminal,
 properly maintaining a system, etc.)
 
-* Open-source software (I like finding tools on **GitHub**)
+* Open-source software
 
 * Desktop and web-development
 

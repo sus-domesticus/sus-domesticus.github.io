@@ -4,6 +4,10 @@ title = 'Marc Grec'
 theme = 'PaperMod'
 enableEmoji = true
 
+[params.homeInfoParams]
+Title = "Welcome!"
+Content = "Below are some of my posts. Check out my [portfolio](/categories/project-showcase/) or read more [here](/about/)."
+
 [[menu.main]]
 name = "About me"
 url = "/about/"
