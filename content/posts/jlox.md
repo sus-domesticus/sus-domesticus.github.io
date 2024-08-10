@@ -16,6 +16,16 @@ chapter with some challenges. Solutions to the challenges are not found in the b
 Bellow I want to showcase my solutions to the various problems that the author
 of the book proposed.
 
+## Table of contents
+
+<!--toc:start-->
+- [Interfaces (challenge 1 from chapter 13)](#interfaces-challenge-1-from-chapter-13)
+- [Safe access operator (challenge 3 from chapter 13)](#safe-access-operator-challenge-3-from-chapter-13)
+- [Warn about unused local variables (challenge 3 from chapter 11)](#warn-about-unused-local-variables-challenge-3-from-chapter-11)
+- [Getter methods for classes (challenge 2 from chapter 12)](#getter-methods-for-classes-challenge-2-from-chapter-12)
+- [Others](#others)
+<!--toc:end-->
+
 ## Interfaces (challenge 1 from chapter 13)
 
 An interface requires its target to implement its methods (arity is checked).
