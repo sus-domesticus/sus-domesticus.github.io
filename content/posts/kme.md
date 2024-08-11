@@ -19,3 +19,5 @@ be used to engrave certain types of pieces. Its strength is quickly drafting she
 music but not necessarily chiseling the finer details.
 
 Below is a showcase of some of its features.
+
+{{< video "/videos/editor.mp4" >}}
